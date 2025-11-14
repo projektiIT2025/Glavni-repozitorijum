@@ -1,17 +1,17 @@
 # UPUTSTVO: KREIRANJE NOVOG C# PROJEKTA I OBJAVLJIVANJE NA GITHUB
 Ovo uputstvo objašnjava kako da učenici naprave svoj novi C# projekat u Visual Studio-u i postave ga na GitHub bez grešaka.
-1. Otvori Visual Studio
-• Pokreni Visual Studio 2019 ili 2022.
-• Klikni 'Create a new project'.
-2. Izaberi tip projekta
-• U pretrazi ukucaj 'Console App (.NET Framework)' ili 'Windows Forms App (.NET Framework)'.
-• Klikni 'Next'.
-3. Podesi naziv i lokaciju
-• Project name: npr. DrugiProjekat
-• Location: podrazumevana putanja (Documents\Visual Studio 2022\Projects)
-• Proveri da je opcija 'Place solution and project in the same directory' ISKLJUČENA.
-• Klikni 'Create'.
-4. Napravi jednostavan kod
+## 1. Otvori Visual Studio
+### • Pokreni Visual Studio 2019 ili 2022.
+### • Klikni 'Create a new project'.
+## 2. Izaberi tip projekta
+### • U pretrazi ukucaj 'Console App (.NET Framework)' ili 'Windows Forms App (.NET Framework)'.
+### • Klikni 'Next'.
+## 3. Podesi naziv i lokaciju
+### • Project name: npr. DrugiProjekat
+### • Location: podrazumevana putanja (Documents\Visual Studio 2022\Projects)
+### • Proveri da je opcija 'Place solution and project in the same directory' ISKLJUČENA.
+### • Klikni 'Create'.
+## 4. Napravi jednostavan kod
 U fajlu Program.cs (ili Form1.cs) unesi sledeći kod:
 using System;
 
