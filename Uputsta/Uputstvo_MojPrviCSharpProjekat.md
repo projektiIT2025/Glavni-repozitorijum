@@ -1,5 +1,5 @@
 ### 🧠 UPUTSTVO: Moj prvi C# projekat na GitHub-u
-##🎯 Cilj:
+## 🎯 Cilj:
 Naučiti kako da napraviš novi projekat u Visual Studio-u i postaviš ga na svoj GitHub nalog.
 # 🧩 1. Priprema
 ✅ Potrebno je da imaš:
