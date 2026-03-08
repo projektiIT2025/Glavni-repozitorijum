@@ -98,7 +98,7 @@ On je zadužen za:
 - dodavanje, izmenu i brisanje
 - pretragu i sortiranje
 
-Tok rada:
+Tok rada:Forma → Service → Repository → Baza
 
 Service:
 
