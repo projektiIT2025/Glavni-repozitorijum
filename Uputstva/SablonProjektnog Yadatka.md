@@ -1,5 +1,5 @@
-PROJEKTNI MODEL ZA C# WINDOWS FORMS APLIKACIJU
-Tema projekta
+###PROJEKTNI MODEL ZA C# WINDOWS FORMS APLIKACIJU
+##Tema projekta
 Napraviti desktop aplikaciju u C# Windows Forms koja koristi:
 •	slojevitu arhitekturu
 •	rad sa SQL bazom
